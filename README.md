@@ -1,77 +1,70 @@
-# suhank007-suhank007-[README.md](https://github.com/user-attachments/files/29946988/README.md)
+[README (1).md](https://github.com/user-attachments/files/29947095/README.1.md)
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1500&color=2AB1AC&center=true&vCenter=true&width=650&lines=Ankit+Parihar;PLM+and+Data+Transformation+Consultant;Building+Bivonix+-+BI+and+AI+Studio;Powered+by+Claude+and+MCP" alt="Typing SVG" />
-
-**PLM & Data Transformation Strategy Consultant** based in Paris — leading BI/analytics for an enterprise ERP/PLM transformation, and building AI-powered tools on the side through **Bivonix**.
-
+  <img src="assets/hero-banner.svg" alt="Ankit Parihar" width="100%"/>
 </div>
 
----
+<br/>
 
-### About Me
+<img src="assets/divider.svg" width="100%" height="3"/>
 
-- 🪄 **Currently working on:** Atlas Copco's PLM/ERP transformation (ENOVIA/3DEXPERIENCE, Databricks, Power BI), **Bivonix**, and **Portfolio Builder** — an AI app that turns a resume into a one-of-a-kind portfolio site using the Claude API
-- 🧑‍🤝‍🧑 **Looking to collaborate on:** AI agent / MCP-powered automation and data-to-BI integration projects
-- 🤝 **Looking for help with:** turning side-project automations into production-ready tools
-- 🌱 **Currently learning:** the Databricks Certified Data Engineer Associate cert, plus AI agents & MCP
-- 💬 **Ask me about:** Power BI, PLM (ENOVIA/3DEXPERIENCE), building with Claude + MCP, or AI-generated video
-- ⚡ **Fun fact:** I once cut a cinematic short film from raw Paris footage using AI video tools
+## Currently
 
----
+Leading BI and analytics for a 15-entity ERP/PLM transformation at Atlas Copco — building the reporting layer that turns ENOVIA and 3DEXPERIENCE data into decisions leadership can act on the same day. Alongside that, I run **Bivonix**, an independent studio where I build BI systems, AI applications, and web products for people who need more than a dashboard.
 
-### Tech Stack
+Most recently: **Portfolio Builder**, an AI app that reads a résumé through the Claude API and generates a portfolio site with a genuinely unique design system every time — not a template picker.
 
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,threejs,swift,py,r)
-![Skills](https://skillicons.dev/icons?i=nodejs,supabase,postgres,vercel,aws,azure,git,github,vscode,figma,obsidian)
+<img src="assets/divider.svg" width="100%" height="3"/>
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=claude&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=flat&logo=stripe&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
-![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white)
-![ENOVIA/3DEXPERIENCE](https://img.shields.io/badge/ENOVIA%2F3DEXPERIENCE-005386?style=flat&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logoColor=white)
-![Higgsfield](https://img.shields.io/badge/Higgsfield-6D28D9?style=flat&logoColor=white)
-![Descript](https://img.shields.io/badge/Descript-4C40F7?style=flat&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A1A1A?style=flat&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
+## What I actually do
 
----
+I don't just "know Power BI." I build decision engines — systems that take fragmented, noisy operational data from manufacturing floors, aerospace programmes, and pharma trials, and turn it into something an executive can read in the time it takes to open a laptop.
 
-### GitHub Stats
+I don't just "know Python." I build what sits underneath the dashboards — the pipelines, the scheduled jobs, the agents nobody sees — so the number on screen is already trustworthy by the time someone looks at it.
+
+I don't just "use AI tools." I build with them. The Claude API, MCP servers, and agentic workflows are part of how I ship now, not a novelty bolted on after the fact.
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
+## Featured Work
+
+**Portfolio Builder** — *AI personal-branding platform*
+Most "AI portfolio generators" pick from a handful of templates. This one runs a seeded design-uniqueness engine across palette, typography, layout, and motion, with real Claude API tool-use extraction from a résumé — not regex parsing a free-form completion.
+`Next.js 16` `Claude API` `Supabase` `Stripe` `GSAP` `Three.js`
+[Live](https://portfolio-builder-one-alpha.vercel.app) · [Source](https://github.com/suhank007/portfolio-builder)
+
+**Bivonix** — *BI + AI consulting studio*
+Independent practice covering enterprise BI, PLM data transformation, and AI-powered web products.
+[bivonix.com](https://bivonix.com)
+
+**Paris Breeze** — *Cash-on-delivery storefront, built solo*
+A same-day-delivery e-commerce site taken end to end — backend, checkout, order pipeline.
+`Next.js` `Supabase` `Stripe`
+
+> The two entries above are placeholders on purpose — I don't have real screenshots or verified numbers for them yet. Send me those (or for any other project) and I'll build the full case-study treatment instead.
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
+## Stack
+
+**Data & BI**  Power BI · Databricks · Dataiku · SQL Server · Oracle · Python · R
+**PLM**  ENOVIA · 3DEXPERIENCE
+**Web & AI**  Next.js · React · TypeScript · Tailwind · Supabase · Claude API · MCP · Framer Motion · Three.js · GSAP
+**Automation**  n8n · Zapier · Apollo.io · Clay
+**Creative**  Higgsfield · Descript · DaVinci Resolve · FFmpeg · ElevenLabs
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
+## Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhank007&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=suhank007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhank007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=suhank007&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhank007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### Featured Project
-
-<a href="https://github.com/suhank007/portfolio-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhank007&repo=portfolio-builder&theme=tokyonight&hide_border=true" alt="Portfolio Builder" />
-</a>
-
----
+<img src="assets/divider.svg" width="100%" height="3"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/futureishere)
-[![Bivonix](https://img.shields.io/badge/Bivonix-0F172A?style=flat&logoColor=white)](https://bivonix.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=suhank007&style=flat&color=2AB1AC)
+[LinkedIn](https://linkedin.com/in/futureishere) &nbsp;·&nbsp; [Bivonix](https://bivonix.com)
 
 </div>
