@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/29947118/README.2.md)
+[README.md](https://github.com/user-attachments/files/29947337/README.md)
 <div align="center">
-  <img src="assets/hero-banner.svg" alt="Ankit Parihar" width="100%"/>
+  <img src="hero-banner.svg" alt="Ankit Parihar" width="100%"/>
 </div>
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Currently
 
@@ -13,7 +13,7 @@ Leading BI and analytics for a 15-entity ERP/PLM transformation at Atlas Copco �
 
 Most recently: **Portfolio Builder**, an AI app that reads a résumé through the Claude API and generates a portfolio site with a genuinely unique design system every time — not a template picker.
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## What I actually do
 
@@ -23,7 +23,7 @@ I don't just "know Python." I build what sits underneath the dashboards — the 
 
 I don't just "use AI tools." I build with them. The Claude API, MCP servers, and agentic workflows are part of how I ship now, not a novelty bolted on after the fact.
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Focus Areas
 
@@ -70,7 +70,7 @@ Independent BI + AI consulting studio, run alongside the day job.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Roadmap
 
@@ -83,7 +83,7 @@ Atlas Copco's 15-entity PLM transformation. The Databricks Certified Data Engine
 **Next**
 Becoming a recognized PLM + data transformation specialist — deepening ENOVIA/3DEXPERIENCE expertise alongside AI agent capability.
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Featured Work
 
@@ -102,7 +102,7 @@ A same-day-delivery e-commerce site taken end to end — backend, checkout, orde
 
 > The two entries above are placeholders on purpose — I don't have real screenshots or verified numbers for them yet. Send me those (or for any other project) and I'll build the full case-study treatment instead.
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Stack
 
@@ -112,26 +112,26 @@ A same-day-delivery e-commerce site taken end to end — backend, checkout, orde
 **Automation**  n8n · Zapier · Apollo.io · Clay
 **Creative**  Higgsfield · Descript · DaVinci Resolve · FFmpeg · ElevenLabs
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Base
 
-<img src="assets/reach.svg" alt="Paris and India" width="220"/>
+<img src="reach.svg" alt="Paris and India" width="220"/>
 
 Born in India, based in Paris. Open to remote and relocation depending on the work.
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 ## Numbers
 
-<p align="center"><img src="assets/status-bar.svg" alt="Live"/></p>
+<p align="center"><img src="status-bar.svg" alt="Live"/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhank007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=suhank007&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub streak"/>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="3"/>
+<img src="divider.svg" width="100%" height="3"/>
 
 <div align="center">
 
