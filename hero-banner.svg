@@ -1,0 +1,70 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
+      .headline { font-family: 'Space Grotesk', Helvetica, Arial, sans-serif; }
+      .label { font-family: 'JetBrains Mono', monospace; }
+    </style>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090A0F"/>
+      <stop offset="100%" stop-color="#13141D"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <circle cx="920" cy="160" r="170" fill="url(#glow)"/>
+
+  <!-- headline -->
+  <text x="60" y="145" class="headline" font-size="52" font-weight="700" fill="url(#textGrad)">ANKIT PARIHAR</text>
+  <text x="62" y="182" class="label" font-size="14" fill="#94A3B8" letter-spacing="2">PLM &amp; DATA TRANSFORMATION CONSULTANT</text>
+  <text x="62" y="206" class="label" font-size="14" fill="#94A3B8" letter-spacing="2">BUILDING WITH AI, ONE SYSTEM AT A TIME</text>
+
+  <!-- scattered data converging into one point -->
+  <g stroke-width="1.5" fill="none" opacity="0.85">
+    <path d="M650,90 Q790,110 920,158" stroke="#38BDF8" stroke-dasharray="420" stroke-dashoffset="420">
+      <animate attributeName="stroke-dashoffset" from="420" to="0" dur="2s" fill="freeze" begin="0.2s"/>
+    </path>
+    <path d="M640,160 Q800,165 918,160" stroke="#8B5CF6" stroke-dasharray="380" stroke-dashoffset="380">
+      <animate attributeName="stroke-dashoffset" from="380" to="0" dur="2s" fill="freeze" begin="0.5s"/>
+    </path>
+    <path d="M660,192 Q810,145 920,161" stroke="#FB923C" stroke-width="1" stroke-dasharray="380" stroke-dashoffset="380" opacity="0.6">
+      <animate attributeName="stroke-dashoffset" from="380" to="0" dur="2s" fill="freeze" begin="0.8s"/>
+    </path>
+    <path d="M655,235 Q795,205 920,163" stroke="#22D3EE" stroke-dasharray="420" stroke-dashoffset="420">
+      <animate attributeName="stroke-dashoffset" from="420" to="0" dur="2s" fill="freeze" begin="1.1s"/>
+    </path>
+  </g>
+
+  <g>
+    <circle cx="650" cy="90" r="5" fill="#38BDF8" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.1s"/>
+    </circle>
+    <circle cx="640" cy="160" r="5" fill="#8B5CF6" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.4s"/>
+    </circle>
+    <circle cx="660" cy="192" r="4" fill="#FB923C" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.7s"/>
+    </circle>
+    <circle cx="655" cy="235" r="5" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="1.0s"/>
+    </circle>
+  </g>
+
+  <!-- convergence point: the signature moment -->
+  <circle cx="920" cy="160" r="0" fill="#F8FAFC">
+    <animate attributeName="r" from="0" to="6" dur="0.5s" fill="freeze" begin="2.1s"/>
+  </circle>
+  <circle cx="920" cy="160" r="6" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6">
+    <animate attributeName="r" values="6;28;6" dur="2.6s" begin="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.6s" begin="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
