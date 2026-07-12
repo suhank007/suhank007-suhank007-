@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/29947095/README.1.md)
+[README.md](https://github.com/user-attachments/files/29947118/README.2.md)
 <div align="center">
   <img src="assets/hero-banner.svg" alt="Ankit Parihar" width="100%"/>
 </div>
@@ -22,6 +22,66 @@ I don't just "know Power BI." I build decision engines — systems that take fra
 I don't just "know Python." I build what sits underneath the dashboards — the pipelines, the scheduled jobs, the agents nobody sees — so the number on screen is already trustworthy by the time someone looks at it.
 
 I don't just "use AI tools." I build with them. The Claude API, MCP servers, and agentic workflows are part of how I ship now, not a novelty bolted on after the fact.
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
+## Focus Areas
+
+<details>
+<summary><b>Data Engineering & BI</b> — click to expand</summary>
+<br/>
+
+Power BI, Databricks, SQL Server, Oracle, Python — the layer that turns raw operational data into something leadership trusts.
+
+- Atlas Copco ERP/PLM transformation — reporting layer across 15+ European entities
+- Portfolio Builder — Supabase/Postgres as the data layer underneath the app
+
+</details>
+
+<details>
+<summary><b>AI & Automation</b> — click to expand</summary>
+<br/>
+
+Claude API, MCP servers, agentic workflows — building with AI rather than just prompting it.
+
+- Portfolio Builder — real Claude API tool-use extraction from a résumé, not regex over a free-form completion
+- A custom Claude Desktop MCP stack for research, design, and outreach automation
+
+</details>
+
+<details>
+<summary><b>PLM</b> — click to expand</summary>
+<br/>
+
+ENOVIA, 3DEXPERIENCE — the system of record for product data at enterprise scale.
+
+- Atlas Copco — 15+ entity ERP/PLM transformation, ENOVIA/3DEXPERIENCE reporting
+- 3-year goal: recognized PLM + data transformation specialist, deepening ENOVIA/3DEXPERIENCE expertise alongside AI agent capability
+
+</details>
+
+<details>
+<summary><b>Freelance / Bivonix</b> — click to expand</summary>
+<br/>
+
+Independent BI + AI consulting studio, run alongside the day job.
+
+- Portfolio Builder, Paris Breeze, and client BI work
+
+</details>
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
+## Roadmap
+
+**Shipped**
+Nine years of enterprise BI across aerospace, luxury, insurance, and pharma — Liebherr, Dior, AXA, Sanofi, Air France. Turning operational noise into board-level clarity, repeatedly, across industries that don't tolerate a wrong number.
+
+**In Progress**
+Atlas Copco's 15-entity PLM transformation. The Databricks Certified Data Engineer Associate cert. Bivonix, taking shape as a real second track rather than a side project.
+
+**Next**
+Becoming a recognized PLM + data transformation specialist — deepening ENOVIA/3DEXPERIENCE expertise alongside AI agent capability.
 
 <img src="assets/divider.svg" width="100%" height="3"/>
 
@@ -54,7 +114,17 @@ A same-day-delivery e-commerce site taken end to end — backend, checkout, orde
 
 <img src="assets/divider.svg" width="100%" height="3"/>
 
+## Base
+
+<img src="assets/reach.svg" alt="Paris and India" width="220"/>
+
+Born in India, based in Paris. Open to remote and relocation depending on the work.
+
+<img src="assets/divider.svg" width="100%" height="3"/>
+
 ## Numbers
+
+<p align="center"><img src="assets/status-bar.svg" alt="Live"/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhank007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats"/>
